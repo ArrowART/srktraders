@@ -127,7 +127,7 @@ function Footer() {
       <div className="bg-[#00A8FF] p-2 sm:p-3">
         <p className="text-center text-white poppins text-sm sm:text-sm md:text-[14px]">
           Copyright ©2025 All rights reserved. Developed by{' '}
-          <span className="text-[#061C28] poppins">THIRSTY CROWZ</span>
+          <a href='https://thirstycrowz.com/' target='blank' className="text-[#061C28] poppins">THIRSTY CROWZ</a>
         </p>
       </div>
     </>
